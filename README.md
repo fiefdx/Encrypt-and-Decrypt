@@ -17,6 +17,7 @@ ScreenShots
 Build & Run
 -----------
 1. Build it
+   
    ```
    git clone git@github.com:fiefdx/Encrypt-and-Decrypt.git Encrypt-and-Decrypt
    Use eclipse import Encrypt-and-Decrypt as existing java project
